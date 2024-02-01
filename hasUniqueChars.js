@@ -12,3 +12,6 @@ function hasUniqueChars(word) {
   
     return true; // No duplicate characters found
   }
+
+  console.log(hasUniqueChars("Monday"));
+  console.log(hasUniqueChars("Moonday"));
